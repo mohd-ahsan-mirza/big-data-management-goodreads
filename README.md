@@ -1,6 +1,7 @@
 # Content
 
 * Reactive design
+* Different types of data stores
 
 # Usage
 
